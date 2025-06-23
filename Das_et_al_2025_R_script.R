@@ -1,3 +1,5 @@
+# Marek Let --- University of South Bohemia in Ceske Budejovice (USB)
+
 ### Instal packages
 
 install.packages(lcmm)
